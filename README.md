@@ -22,11 +22,11 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
 
 <br/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChristianDev47/ChristianDev47/refs/heads/master/assets/pc.gif" width="360px"/>
+
 ### 👨‍💻 Más sobre mí:
 
 <div style="display: flex; align-items: center; gap: 2rem">
-
-<div>
 - 🎓 Comprometido y muy responsable. 
 - 🏅 Mejor estudiante de mi carrera 3 veces consecutivas y condecorado al graduarme 🎓.
 - 💼 6 meses de experiencia realizando prácticas en el [ITDS](https://itdstarija.edu.bo/), gestionando bases de datos y páginas web 🌐.
@@ -34,11 +34,6 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
 - 🔗 Echa un vistazo a mis proyectos en mi [Porfolio](https://porfolio-christiandelgado.vercel.app/) 📁.
 - 💡 Estoy abierto a nuevas oportunidades laborales 🚀.
 - 🤝 No dudes en contactarme a través de [Linkedin](https://www.linkedin.com/in/christian-delgado-a2004932b/) si deseas colaborar o trabajar juntos 💼.
-</div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChristianDev47/ChristianDev47/refs/heads/master/assets/pc.git" width="360px"/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChristianDev47/ChristianDev47/refs/heads/master/assets/pc.gif" width="360px"/>
-
 </div>
 
 <br/>
