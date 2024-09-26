@@ -14,14 +14,10 @@ Me caracterizo por un compromiso constante con el aprendizaje 📚 y la mejora c
 La programación no es solo mi profesión, es mi pasión ❤️, y me motiva saber que puedo marcar la diferencia en cada proyecto, colaborando con equipos y clientes para lograr resultados excepcionales 🏆.
 
 ¡Construyamos cosas juntos, no dudes en contactarme!🌟
-
-[![LinkedIn: Christian Delgado](https://img.shields.io/badge/-Christian%20Delgado-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-delgado-a2004932b/)](https://www.linkedin.com/in/christian-delgado-a2004932b/)
-[![Gmail Badge](https://img.shields.io/badge/-christiands.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:christiands.dev@gmail.com)](mailto:christiands.dev@gmail.com)
 [![LinkedIn: Christian Delgado](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-delgado-a2004932b/)](https://www.linkedin.com/in/christian-delgado-a2004932b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:christiands.dev@gmail.com)](mailto:christiands.dev@gmail.com)
 
 <br/>
-
 
 ### 👨‍💻 Más sobre mí:
 
