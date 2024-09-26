@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChristianDev47/ChristianDev47/refs/heads/master/assets/banner.git">
+  <img src="https://raw.githubusercontent.com/ChristianDev47/ChristianDev47/refs/heads/master/assets/banner.gif">
 </div>
 
 <p align="center">
@@ -17,6 +17,8 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
 
 [![LinkedIn: Christian Delgado](https://img.shields.io/badge/-Christian%20Delgado-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-delgado-a2004932b/)](https://www.linkedin.com/in/christian-delgado-a2004932b/)
 [![Gmail Badge](https://img.shields.io/badge/-christiands.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:christiands.dev@gmail.com)](mailto:christiands.dev@gmail.com)
+[![LinkedIn: Christian Delgado](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-delgado-a2004932b/)](https://www.linkedin.com/in/christian-delgado-a2004932b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:christiands.dev@gmail.com)](mailto:christiands.dev@gmail.com)
 
 <br/>
 
@@ -35,9 +37,10 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
 </div>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChristianDev47/ChristianDev47/refs/heads/master/assets/pc.git" width="360px"/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChristianDev47/ChristianDev47/refs/heads/master/assets/pc.gif" width="360px"/>
+
 </div>
 
-<br/>
 <br/>
 
 ### 🛠 Lenguajes y Herramientas
