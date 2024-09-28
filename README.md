@@ -38,7 +38,7 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
 ### 🛠 Lenguajes y Herramientas
 
 <h4>🖥️ Front-End</h4>
-<div>
+
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -49,9 +49,9 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
   ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)&nbsp;
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
-</div>
+  
 <h4>🛠 Back-End</h4>
-<div>
+
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
   ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
@@ -62,9 +62,9 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
-</div>
+
 <h4>⚙️ Otras Herramientas</h4>
-<div>
+
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
@@ -75,7 +75,7 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)&nbsp;
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)&nbsp;
   ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-</div>
+
 
 <br/>
 
