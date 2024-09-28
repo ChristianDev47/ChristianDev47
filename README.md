@@ -25,15 +25,13 @@ La programación no es solo mi profesión, es mi pasión ❤️, y me motiva sab
 - 🎓 Comprometido y muy responsable. 
 - 🏅 Mejor estudiante de mi carrera 3 veces consecutivas y condecorado al graduarme 🎓.
 - 💼 6 meses de experiencia realizando prácticas en el [ITDS](https://itdstarija.edu.bo/), gestionando bases de datos y páginas web 🌐.
-- 💻 Actualmente estoy mejorando mis habilidades en Python 🐍.
+- 💻 Actualmente estoy mejorando mis habilidades en Flask 🐍.
 - 🔗 Echa un vistazo a mis proyectos en mi [Porfolio](https://porfolio-christiandelgado.vercel.app/) 📁.
 - 💡 Estoy abierto a nuevas oportunidades laborales 🚀.
 - 🤝 No dudes en contactarme a través de [Linkedin](https://www.linkedin.com/in/christian-delgado-sanchez/) si deseas colaborar o trabajar juntos 💼.
 
 
 <br/>
-
-### 🛠 Lenguajes y Herramientas
 
 ### 🛠 Lenguajes y Herramientas
 
